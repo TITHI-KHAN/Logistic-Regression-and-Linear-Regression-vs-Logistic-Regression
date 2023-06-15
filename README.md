@@ -61,7 +61,7 @@ where y is the dependent variable, x1, x2, ..., xn are the independent variables
 
 **5. Model interpretation:** In linear regression, the regression coefficients indicate the change in the dependent variable associated with a one-unit change in the corresponding independent variable, holding other variables constant. The intercept term (c or b0) represents the expected value of the dependent variable when all independent variables are zero.
 
-**6. Evaluation: **The performance of a linear regression model can be evaluated using metrics such as the coefficient of determination (R-squared), root mean squared error (RMSE), mean absolute error (MAE), and others. These metrics assess the goodness of fit and predictive accuracy of the model.
+**6. Evaluation:** The performance of a linear regression model can be evaluated using metrics such as the coefficient of determination (R-squared), root mean squared error (RMSE), mean absolute error (MAE), and others. These metrics assess the goodness of fit and predictive accuracy of the model.
 
 **7. Extensions:** Linear regression can be extended to handle nonlinear relationships by introducing polynomial terms, interaction terms, or using techniques like polynomial regression, stepwise regression, or ridge regression.
 
