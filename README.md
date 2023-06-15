@@ -22,6 +22,12 @@ or y = 1 / (1 + np.exp(-(m * x + c)))
 
 Logistic regression is widely used in various domains, including healthcare, finance, marketing, and social sciences, for tasks such as disease prediction, customer churn analysis, spam detection, and sentiment analysis.
 
+![image](https://github.com/TITHI-KHAN/Logistic-Regression-/assets/65033964/027dc8ce-efe1-4f2e-b27d-4fdafbccb9ac)
+
+![image](https://github.com/TITHI-KHAN/Logistic-Regression-/assets/65033964/eb14a233-c30e-4a94-a668-e929e3c5b34b)
+
+![image](https://github.com/TITHI-KHAN/Logistic-Regression-/assets/65033964/ad306d3a-c538-441e-a60a-af131784c844)
+
 # Sigmoid vs Softmax
 
 The sigmoid function is used for the two-class logistic regression, whereas the softmax function is used for
@@ -64,14 +70,6 @@ Linear regression is widely used for tasks such as prediction, forecasting, tren
 ![image](https://github.com/TITHI-KHAN/Logistic-Regression-/assets/65033964/6ca2e744-7b68-4e91-a052-446236631454)
 
 ![image](https://github.com/TITHI-KHAN/Logistic-Regression-/assets/65033964/3258640b-12b1-435b-9443-2a6f7ec3abd2)
-
-# Logistic Regression
-
-![image](https://github.com/TITHI-KHAN/Logistic-Regression-/assets/65033964/027dc8ce-efe1-4f2e-b27d-4fdafbccb9ac)
-
-![image](https://github.com/TITHI-KHAN/Logistic-Regression-/assets/65033964/eb14a233-c30e-4a94-a668-e929e3c5b34b)
-
-![image](https://github.com/TITHI-KHAN/Logistic-Regression-/assets/65033964/ad306d3a-c538-441e-a60a-af131784c844)
 
 # Linear Regression vs Logistic Regression
 
