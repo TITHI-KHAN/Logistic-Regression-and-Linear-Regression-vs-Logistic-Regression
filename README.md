@@ -35,9 +35,13 @@ returns the probabilities of each class and the target class will have the high 
 
 # Linear Regression vs Logistic Regression
 
+# Linear Regression
+
 ![image](https://github.com/TITHI-KHAN/Logistic-Regression-/assets/65033964/6ca2e744-7b68-4e91-a052-446236631454)
 
 ![image](https://github.com/TITHI-KHAN/Logistic-Regression-/assets/65033964/3258640b-12b1-435b-9443-2a6f7ec3abd2)
+
+# Logistic Regression
 
 ![image](https://github.com/TITHI-KHAN/Logistic-Regression-/assets/65033964/027dc8ce-efe1-4f2e-b27d-4fdafbccb9ac)
 
