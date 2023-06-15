@@ -97,7 +97,7 @@ Logistic Regression: The output of logistic regression is the predicted probabil
 
 5. Model Interpretation:
 
-Linear Regression: In linear regression, the regression coefficients indicate the change in the dependent variable associated with a one-unit change in the corresponding independent variable.
+<b>Linear Regression:</b> In linear regression, the regression coefficients indicate the change in the dependent variable associated with a one-unit change in the corresponding independent variable.
 Logistic Regression: In logistic regression, the regression coefficients represent the change in the log-odds of the binary outcome associated with a one-unit change in the corresponding independent variable.
 
 6. Application Areas:
