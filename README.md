@@ -33,20 +33,17 @@ returns the probabilities of each class and the target class will have the high 
 
 ![image](https://github.com/TITHI-KHAN/Logistic-Regression-/assets/65033964/d022c8d9-5e94-44ec-b4ad-0ca7d7b773f8)
 
-
-![image](https://github.com/TITHI-KHAN/Logistic-Regression-/assets/65033964/027dc8ce-efe1-4f2e-b27d-4fdafbccb9ac)
-
-
-![image](https://github.com/TITHI-KHAN/Logistic-Regression-/assets/65033964/eb14a233-c30e-4a94-a668-e929e3c5b34b)
-
-
-![image](https://github.com/TITHI-KHAN/Logistic-Regression-/assets/65033964/ad306d3a-c538-441e-a60a-af131784c844)
-
 # Linear Regression vs Logistic Regression
 
 ![image](https://github.com/TITHI-KHAN/Logistic-Regression-/assets/65033964/6ca2e744-7b68-4e91-a052-446236631454)
 
 ![image](https://github.com/TITHI-KHAN/Logistic-Regression-/assets/65033964/3258640b-12b1-435b-9443-2a6f7ec3abd2)
+
+![image](https://github.com/TITHI-KHAN/Logistic-Regression-/assets/65033964/027dc8ce-efe1-4f2e-b27d-4fdafbccb9ac)
+
+![image](https://github.com/TITHI-KHAN/Logistic-Regression-/assets/65033964/eb14a233-c30e-4a94-a668-e929e3c5b34b)
+
+![image](https://github.com/TITHI-KHAN/Logistic-Regression-/assets/65033964/ad306d3a-c538-441e-a60a-af131784c844)
 
 ![image](https://github.com/TITHI-KHAN/Logistic-Regression-/assets/65033964/a1b58f25-cbd7-428a-a95b-911b005827d9)
 
